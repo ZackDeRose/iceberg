@@ -15,7 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@iceberg/design-system": ["libs/design-system/src/index.ts"]
+      "@iceberg/design-system": [
+        "libs/design-system/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]
